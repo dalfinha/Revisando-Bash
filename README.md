@@ -1,4 +1,4 @@
-# Revisando o Bash
+# Revisando o Bash 📖
 Alguns scripts em bash para gestão de acesso nativa, gerenciamento de arquivos e remoção de diretórios :)
 
 ## 💡 1º Gerenciamento de Identidade com Linux usando a imagem do Conectiva
